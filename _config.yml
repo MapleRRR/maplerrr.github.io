@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Wenjie He"
 title_separator          : "-"
-name                     : &name "何文杰"
+name                     : &name "Chinese name?"
 description              : &description "personal description"
 url                      : https://maplerrr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/publish" # the subpath of your site, e.g. "/blog"

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "我现在在干啥，我到底能干啥"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,25 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-ABDC
+总
 ======
+What is the matter of the universe made of? Human ask for the answer of all time. I don't know whether is exists, 
+物质由何组成，人们一直再寻找答案。虽然我不知道这个答案是否存在，但是寻找的过程对于人类（吧，或者对于我？）也充满意义。
 
-#This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
-A data-driven personal website 
+高能物理
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+人们探索物质最简单的方法就是拆开看看，现代的拆开“物质”的工具就是加速器。它将物质加速使其相撞，巨大的能量带来了神奇的变化，物质之间遵循着某种规律相互作用并演化，原子核分裂，基本粒子湮灭又产生。撞击的结果能够验证人们天马行空的理论猜测，目前留下的最实用，性价比最高的理论则是标准模型（Standard Model）。2012年，Higgs粒子被发现，标准模型预言的粒子全部被发现，高能物理届欢呼的同时陷入下一个迷茫期（嘎嘎嘎）。
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+精确计算
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+标准模型已经非常成功的预言了目前所有出现的基本粒子，当然我们知道它还有需要改进的地方。比如无法解释暗物质，中微子质量等等。既然知道有问题还要解决，那我们就力大砖飞来算！给他算的很精确看看实验和计算结果是否有出入。有出入，就有漏洞！那么我们可以抓住漏洞来寻找新物理，这就需要有人想办法怎么算的精确（我就干这事）。
+
 
 Site-wide configuration
 ------

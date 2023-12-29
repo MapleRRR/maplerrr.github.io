@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-总
-======
-What is the matter of the universe made of? Human ask for the answer of all time. I don't know whether is exists, 
+<!-- What is the matter of the universe made of? Human ask for the answer of all time. I don't know whether it is exists. -->
 物质由何组成，人们一直再寻找答案。虽然我不知道这个答案是否存在，但是寻找的过程对于人类（吧，或者对于我？）也充满意义。
 
 高能物理
@@ -20,6 +18,9 @@ What is the matter of the universe made of? Human ask for the answer of all time
 精确计算
 ======
 标准模型已经非常成功的预言了目前所有出现的基本粒子，当然我们知道它还有需要改进的地方。比如无法解释暗物质，中微子质量等等。既然知道有问题还要解决，那我们就力大砖飞来算！给他算的很精确看看实验和计算结果是否有出入。有出入，就有漏洞！那么我们可以抓住漏洞来寻找新物理，这就需要有人想办法怎么算的精确（我就干这事）。
+
+标准模型是基于量子场论所建立的一个非阿贝尔规范理论，在微扰论框架下计算时，费曼图是一个非常方便的工具。而其中会涉及到大量的技术以及难题，如何处理散射振幅、如何处理软共线发散、如何高效完成IBP等，其中有一步是如何计算费曼积分。
+![feynman-diagram](/images/The-Feynman-diagrams-for-the-one-particle-irreducible-four-point-function-G-4-p-1-p.png)
 
 
 Site-wide configuration

@@ -26,8 +26,8 @@ redirect_from:
 * **目前工作**
   * 轻夸克对湮灭产生$W$玻色子对QCD修正中平面主积分的计算（待发表）
     <!-- Planar master integrals for QCD corrections to $W$ boson pair production in hadronic collision -->
-  * 混合EW$\otimes$QCD修正单$W$玻色子产生过程中主积分的计算（进行中）
-    <!-- Master integrals for EW$otimes$QCD corrections to single $W$ boson production in hadronic collision -->
+  * 混合QCD$\otimes$EW修正单$W$玻色子产生过程中主积分的计算（进行中）
+    <!-- Master integrals for EW$\otimes$QCD corrections to single $W$ boson production in hadronic collision -->
   * 正负电子对撞机中THDM模型混合EW$times$QCD修正下带电Higgs对的产生（非一作，已挂arxiv）    
     Mixed QCD$\otimes$EW corrections to charged Higgs pair production in THDM at electron-positron colliders
 

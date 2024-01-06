@@ -56,12 +56,12 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-# twitter:
-#   username               : &twitter
-# facebook:
-#   username               :
-#   app_id                 :
-#   publisher              :
+twitter:
+  username               : &twitter
+facebook:
+  username               :
+  app_id                 :
+  publisher              :
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "何文杰"
   avatar           : "profile.png"
-  bio              : "Do something simple"
+  bio              : "Do something simple."
   location         : "China Hefei"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -94,12 +94,12 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "many"
   foursquare       :
   github           : # "academicpages"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "many"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
@@ -115,6 +115,10 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  link             :
+    - label: "email"
+    - icon : "fas fa-fw fa-link"
+    - url  : "www.baidu.com"
 
 
 # Reading Files

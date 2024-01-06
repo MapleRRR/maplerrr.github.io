@@ -8,6 +8,6 @@ date: 2024-01-7
 location: ""
 ---
 
-[More information here](http://academicpages.github.io/files/qqWW-talk.pdf)
+[More information here](http://maplerrr.github.io/files/qqWW-talk.pdf)
 
 You can learn about my specific work through the slide as mt paper is on my boss.

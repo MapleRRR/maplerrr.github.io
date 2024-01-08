@@ -1,9 +1,8 @@
 ---
-title: "Portfolio why no change"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "The master integrals in paper"
+excerpt: "Short look for the master integrals<br/><img src='/images/MIs_set1.png' width='20%' height='20%'><br/><img src='/images/MIs_set2.png' width='20%' height='20%'><br/><img src='/images/MIs_set3.png' width='20%' height='20%'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
-为什么啥也没有啊，我加了啊
-试试可以加点什么，图片怎么加的
+The master integrals is given in the link for [set1](http://maplerrr.github.io/files/MIs_set1.pdf), [set2](http://maplerrr.github.io/files/MIs_set2.pdf), and [set3](http://maplerrr.github.io/files/MIs_set3.pdf)
+

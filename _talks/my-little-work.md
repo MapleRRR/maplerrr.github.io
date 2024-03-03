@@ -10,4 +10,4 @@ location: ""
 
 [More information here](http://maplerrr.github.io/files/qqWW-talk.pdf)
 
-You can learn about my specific work through the slide as my paper is on my boss.
+You can learn about my specific work through the slide because my paper is controlled by my boss.

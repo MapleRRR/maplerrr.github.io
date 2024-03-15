@@ -2,7 +2,7 @@
 title: "Two-loop non-planar master integrals for EW⊗QCD corrections to W boson production at the LHC"
 collection: talks
 type: "Introdutction"
-permalink: /talks/my-little-work
+permalink: /talks/my-little-work-2
 venue: ""
 date: 2024-01-7
 location: ""

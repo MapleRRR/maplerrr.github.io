@@ -34,7 +34,7 @@ redirect_from:
     Mixed QCD$\otimes$EW corrections to charged Higgs pair production in THDM at electron-positron colliders
   * 正负电子对撞机中THDM模型混合EW$\otimes$QCD修正下带电Higgs对的产生（非一作，已挂[arxiv](https://arxiv.org/abs/2312.17207)）    
     Mixed QCD$\otimes$EW corrections to charged Higgs pair production in THDM at electron-positron colliders
-  * 具体的内容请点上面的Publications
+  * 具体的内容请点上面的[Publications](https://hewenjie.mapleleaves.xyz/publications/)
 
 编程技能
 ======

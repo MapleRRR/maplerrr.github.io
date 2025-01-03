@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-Hold on! My paper in coming. Please, revise it quickly T T.
+Hold on! My paper is published.
+Thanks! No more battle!
+
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>

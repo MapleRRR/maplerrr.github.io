@@ -50,6 +50,6 @@ redirect_from:
 - 以后再说，急急急
 
 * 网页内容：
-- 可以从[Publications](https://hewenjie.mapleleaves.xyz/publications/)里面看我的具体工作文章毕业论文，Talks里面有我写的简洁slide，Portfolio中有一些可用的图片，CV就是我的简历。
+- 可以从[Publications](http://hewenjie.mapleleaves.xyz/publications/)里面看我的具体工作文章毕业论文，[Talks](http://hewenjie.mapleleaves.xyz/talks/)里面有我写的简洁slide，[Portfolio](http://hewenjie.mapleleaves.xyz/portfolio/)中有一些可用的图片，[CV](http://hewenjie.mapleleaves.xyz/cv/)就是我的简历，随便看看。
 
 
